@@ -8,7 +8,7 @@ public class binarySearch {
         System.out.println("enter a number to search");
         int key=sc.nextInt();
          sc.close();
-         
+
         int start=0;
         int end=arr.length-1;
 
