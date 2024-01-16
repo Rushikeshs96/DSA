@@ -1,9 +1,6 @@
-import slll.Node;
-
 public class Main {
     public static void main(String[] args) {
-        
-        LinkedList list=new LinkedList();
+        Linkedll list=new Linkedll();
 
         list.createLinkedList(5);
         list.addfirst(12);

@@ -1,5 +1,3 @@
-package slll;
-
 public class Node {
     public int data;
     public Node next;
@@ -18,5 +16,5 @@ public class Node {
     public String toString() {
         return "Node [data=" + data + ", next=" + next + "]";
     }
-
+    
 }

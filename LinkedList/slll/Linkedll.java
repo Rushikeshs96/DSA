@@ -1,9 +1,7 @@
-import slll.Node;
-
-public class LinkedList {
+public class Linkedll {
     Node head;
 
-    public LinkedList() {
+    public Linkedll() {
         head = null;
     }
 
@@ -170,6 +168,5 @@ public class LinkedList {
         }
         head=prev;
     }
-    
 
 }
